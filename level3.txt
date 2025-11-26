@@ -1,0 +1,116 @@
+1. The Earth’s atmosphere is mostly made of oxygen.
+True
+False
+Z False
+
+2. What causes a solar eclipse?
+A) The Earth blocks sunlight from reaching the Moon
+B) The Moon blocks sunlight from reaching the Earth
+C) The Sun blocks light from reaching the Earth
+Z The Moon blocks sunlight from reaching the Earth
+
+3. Which of these planets has the most moons?
+A) Mars
+B) Saturn
+C) Earth
+Z Saturn
+
+4. What is the term for the force that keeps planets in orbit around the Sun?
+A) Friction
+B) Gravity
+C) Magnetism
+Z Gravity
+
+5. The Hubble Space Telescope is located on the surface of the Moon.
+True
+False
+Z False
+
+6. Which planet is known for its Great Red Spot?
+A) Earth
+B) Mars
+C) Jupiter
+Z Jupiter
+
+7. Space travel is completely free of risks.
+True
+False
+Z False
+
+8. What type of star is our Sun?
+A) Red dwarf
+B) Yellow dwarf
+C) Blue giant
+Z Yellow dwarf
+
+9. What is the approximate age of the universe?
+A) 4.5 billion years
+B) 13.8 billion years
+C) 10.2 billion years
+Z 13.8 billion years
+
+10. What element is created in large quantities during a supernova?
+A) Hydrogen
+B) Iron
+C) Helium
+Z Iron
+
+11. What is the theoretical limit where the laws of physics break down inside a black hole?
+A) Event horizon
+B) Singularity
+C) Schwarzschild radius
+Z Singularity
+
+12. What is the Schwarzschild radius?
+A) The size of a white dwarf
+B) The distance a planet must orbit to be habitable
+C) The radius of the event horizon of a black hole
+Z The radius of the event horizon of a black hole
+
+13. Which type of galaxy is the most common in the universe?
+A) Elliptical
+B) Spiral
+C) Irregular
+Z Elliptical
+
+14. What is dark energy believed to be responsible for?
+A) The heat of the sun
+B) The structure of atoms
+C) The accelerated expansion of the universe
+Z The accelerated expansion of the universe
+
+15. What is the estimated number of galaxies in the observable universe?
+A) 100 million
+B) 2 trillion
+C) 5 billion
+Z 2 trillion
+
+16. What do astronomers use to determine the composition of stars?
+A) Telescopes
+B) Spectroscopy
+C) Radio waves
+Z Spectroscopy
+
+17. What is the significance of the Lagrange points in space exploration?
+A) They are points with zero gravity
+B) They allow for orbital stability with minimal fuel usage
+C) They are used for measuring cosmic distances
+Z They allow for orbital stability with minimal fuel usage
+
+18. Which mission landed the first humans on the Moon?
+A) Apollo 11
+B) Gemini 4
+C) Voyager 1
+Z Apollo 11
+
+19. What is the main difference between a comet and an asteroid?
+A) Comets are made of rock, asteroids of gas
+B) Comets have tails, asteroids do not
+C) Asteroids orbit the Sun, comets do not
+Z Comets have tails, asteroids do not
+
+20. What makes neutron stars incredibly dense?
+A) They are made of iron
+B) Their atoms collapse, leaving only neutrons
+C) They absorb dark matter
+Z Their atoms collapse, leaving only neutrons
